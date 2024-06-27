@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <CI>1</CI>
+    <Nombre>a</Nombre>
+    <Apellido>a</Apellido>
+    <Username>a</Username>
+    <Contraseña>123</Contraseña>
+    <Direccion>a</Direccion>
+    <Fecha>2005-03-16T00:00:00</Fecha>
+    <TipoCli>a</TipoCli>
+  </Cliente>
+  <Cliente>
+    <CI>1234567</CI>
+    <Nombre>Ailen</Nombre>
+    <Apellido>Encinas</Apellido>
+    <Username>AE</Username>
+    <Contraseña>123456789</Contraseña>
+    <Direccion>Alto Tacagua</Direccion>
+    <Fecha>2005-03-16</Fecha>
+    <TipoCli>Mayorista</TipoCli>
+  </Cliente>
+  <Cliente>
+    <CI>12606949</CI>
+    <Nombre>Ailyn Lenny</Nombre>
+    <Apellido>Encinas Gutierrez</Apellido>
+    <Username>AilynEncinas</Username>
+    <Contraseña>1260458</Contraseña>
+    <Direccion>Alto Obrajes Sector A</Direccion>
+    <Fecha>2005-03-16</Fecha>
+    <TipoCli>mayorista</TipoCli>
+  </Cliente>
+</ArrayOfCliente>

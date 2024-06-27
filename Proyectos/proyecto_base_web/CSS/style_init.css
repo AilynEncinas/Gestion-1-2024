@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #f4f4f4;
+    color: black;
+    padding: 1rem 0;
+    position: relative;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.login {
+    position: absolute;
+    top: 3rem;
+    right: 3rem;
+}
+.login a {
+    color: #6ac0f2;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid #3d9ea9;
+    border-radius: 5px;
+}
+.promo-section, .register-section {
+    background: #fff;
+    margin: 2rem 0;
+    padding: 2rem;
+    box-shadow: 0 0 50px rgba(0,0,0,0.1);
+}
+.promo-section h2, .register-section h2 {
+    text-align: center;
+}
+.promo img, .promo2 img {
+    max-width: 100%;
+}
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+.column-75 {
+    width: 75%;
+    padding: 1rem;
+    background-color: #fff;
+}
+.column-25 {
+    width: 25%;
+    padding: 1rem;
+    background-color: #fff;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <CI>123456</CI>
+    <Nombre>Carlos Walter</Nombre>
+    <Apellido>Montaño Laura</Apellido>
+    <Username>CAM</Username>
+    <Contraseña>12345</Contraseña>
+    <Direccion>No se jksjkskjsjsk</Direccion>
+    <Fecha>2005-08-25T00:00:00</Fecha>
+    <TipoCli>minorista</TipoCli>
+  </Cliente>
+</ArrayOfCliente>

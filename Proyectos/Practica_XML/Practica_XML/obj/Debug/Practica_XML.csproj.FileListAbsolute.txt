@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\bin\Debug\Practica_XML.exe.config
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\bin\Debug\Practica_XML.exe
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\bin\Debug\Practica_XML.pdb
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\obj\Debug\Practica_XML.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\obj\Debug\Practica_XML.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\obj\Debug\Practica_XML.exe
+C:\Users\HP\source\repos\Practica_XML\Practica_XML\obj\Debug\Practica_XML.pdb
